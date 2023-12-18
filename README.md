@@ -1,3 +1,5 @@
 # IoT-Base
 
-# Final_Exam_Code.zip 파일에서 chap_13_mstimer2_Header.txt 파일은 수정되었습니다 참조 바랍니다.
+# 기말고사 관련 파일은 삭제되었습니다
+
+# 암호가 걸려있는 시험용 파일이 업로드 될 예정입니다.
